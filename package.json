@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Gerssicleiton/ProgCorp/issues"
   },
-  "homepage": "https://github.com/Gerssicleiton/ProgCorp#readme"
+  "homepage": "https://github.com/Gerssicleiton/ProgCorp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
